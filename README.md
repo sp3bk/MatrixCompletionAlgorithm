@@ -1,2 +1,3 @@
-# George-Mason-University
-Developed a matrix completion algorithm program using Java, Python, R, and GNU Octave/MATLAB to efficiently analyze a neuron database (Hippocampome.org) used by a majority of neuroscience researchers. 
+# Krasnow Institute, GMU
+![matrix](https://user-images.githubusercontent.com/35988536/42948070-ba458a5a-8b3c-11e8-9726-40fc88332152.gif)
+
